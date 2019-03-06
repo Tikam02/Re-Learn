@@ -10,7 +10,7 @@
 - [Version Control]()
 - [Terminal/CMD Essentials]()
 
-## Phase-II
+## [Phase-II]()
 - [Python]() 
 - [GO]()
 - [Javascript]()
@@ -53,4 +53,6 @@
 ## [Security]()
 
 ## [Deployment]()
+
+## [CTFs & Bug-Bounty]()
 
