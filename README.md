@@ -1,24 +1,56 @@
 # ReBuild
-#### Project ReBuild : Everything From Scratch,Everything From Zero. Because I missed lots of things,while running,now STOP and Learn things from basic to advanced.
-#### Feel Free to contribute and Fix Things. 
+#### Project ReBuild : Everything From Scratch,Everything From Zero. :anchor:
+![alt text]()
+## ``` The Secret Of Getting Started is Getting Started```
+#### Feel Free to contribute and Fix Things. :hammer:
 *****
-## Phase-I
-- Clean Code
-- Setting Up Environments.
-- Version Control
-- Terminal/CMD Essentials.
+## [Phase-I]()
+- [Clean Code]()
+- [Setting Up Environments]()
+- [Version Control]()
+- [Terminal/CMD Essentials]()
 
 ## Phase-II
-- Python 
-- GO
-- Javascript
-- ES6
-- Style Guides
+- [Python]() 
+- [GO]()
+- [Javascript]()
+- [ES6]()
+- [Style Guides]()
 
-## Phase-III
-- Frontend
-- HTML5
-- CSS3
-- SASS/LESS
-- JSON
-- JS Elements for Frontend.
+## [Phase-III]()
+- [Frontend]()
+- [HTML5]()
+- [CSS3]()
+- [SASS/LESS]()
+- [JSON]()
+- [JS Elements for Frontend]()
+
+## [Phase-IV]()
+- [Tooling]()
+- [Build Tools and Bundlers]()
+- [Package Managers]()
+- [Linting]()
+- [Continous Integration]()
+- [Optimization]()
+- [Transpilers]()
+
+## [Phase-V]()
+- [Frameworks]()
+- [Django]()
+- [React]()
+- [Vue]()
+
+## [Phase-VI]()
+- [Backend]()
+- [Node]()
+- [Mongo]()
+- [Auth]()
+- [APIs]()
+
+
+## [Network, Protocols, Browsers]()
+
+## [Security]()
+
+## [Deployment]()
+
