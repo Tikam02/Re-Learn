@@ -151,7 +151,7 @@ echo "$subdomain" >> live.txt
 fi
 done < subdomain-list.txt
 ```
-![Alt text](./scripts/sd1.png)
+![Alt text](https://github.com/Tikam02/ReBuild/blob/master/img/sd1.png)
 
 For taking screenshots, my go-to tool is currently EyeWitness. This tool generates an HTML document containing all the screenshots, response bodies, and headers from your list of hosts.
 
