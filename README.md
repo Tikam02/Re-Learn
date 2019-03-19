@@ -1,7 +1,7 @@
 # ReBuild
 #### Project ReBuild : Everything From Scratch,Everything From Zero. :anchor:
-![alt text]()
-## ``` The Secret Of Getting Started is Getting Started```
+![alt text](https://github.com/Tikam02/ReBuild/blob/master/img/gt.jpg)
+## ```-The Secret Of Getting Started is Getting Started```
 #### Feel Free to contribute and Fix Things. :hammer:
 *****
 ## [Phase-I]()
@@ -10,7 +10,7 @@
 - [Version Control]()
 - [Terminal/CMD Essentials]()
 
-## Phase-II
+## [Phase-II]()
 - [Python]() 
 - [GO]()
 - [Javascript]()
@@ -53,4 +53,6 @@
 ## [Security]()
 
 ## [Deployment]()
+
+## [CTFs & Bug-Bounty]()
 
