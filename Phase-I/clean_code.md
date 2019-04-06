@@ -4,6 +4,8 @@
 ### How to do it?
 *****
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
+Writing clean code is a necessary mindset. It takes practice to write clean and structured code, and you will learn to do it over time. But you need to start with the mindset of writing this way. And you’ll get used to reviewing and revising your code so it’s the cleanest it can be.
+There are two things- Programming and Good Programming. Programming is what we have all been doing. Now is the time to do good programming. We all know that even the bad code works. But it takes time and resources to make a program good. Moreover, other developers mock you when they are trying to find what all is happening in your code. But it’s never too late to care for your programs.
 _____________________________________
 
 ## General rules
@@ -91,3 +93,15 @@ _____________________________________
 4. Needless Complexity.
 5. Needless Repetition.
 6. Opacity. The code is hard to understand.
+*****
+### Characteristics of a Clean code:
+
+    It should be elegant — Clean code should be pleasing to read. Reading it should make you smile the way a well-crafted music box or well-designed car would.
+    Clean code is focused —Each function, each class, each module exposes a single-minded attitude that remains entirely undistracted, and unpolluted, by the surrounding details.
+    Clean code is taken care of. Someone has taken the time to keep it simple and orderly. They have paid appropriate attention to details. They have cared.
+
+4. Runs all the tests
+
+5. Contains no duplication
+
+6. Minimize the number of entities such as classes, methods, functions, and the like.
