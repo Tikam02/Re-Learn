@@ -48,9 +48,6 @@
 - [APIs]()
 
 
-## [Network, Protocols, Browsers]()
-
-## [Security]()
 
 ## [Deployment]()
 
