@@ -11,11 +11,9 @@
 - [Terminal/CMD Essentials]()
 
 ## [Phase-II]()
-- [Python]() 
-- [GO]()
-- [Javascript]()
-- [ES6]()
-- [Style Guides]()
+- [Python](https://github.com/Tikam02/Re-Learn/tree/master/Phase-II/Python) 
+- [GO](https://github.com/Tikam02/Re-Learn/tree/master/Phase-II/Go)
+- [Javascript](https://github.com/Tikam02/Re-Learn/tree/master/Phase-II/Js)
 
 ## [Phase-III]()
 - [Frontend]()
