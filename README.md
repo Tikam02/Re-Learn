@@ -7,11 +7,11 @@
 
 
 
-## Directories:
-###     |
-###      |___Languages 
-###      |       |
-###      |       |__Python
+### Directories:      
+      | ./root
+      |___Languages 
+      |       |
+      |       |__Python
       |       |_Go
       |       |_Javascript
       |
