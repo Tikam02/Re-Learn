@@ -4,11 +4,7 @@
 ## ```-The Secret Of Getting Started is Getting Started```
 #### Feel Free to contribute and Fix Things. :hammer:
 *****
-## [Phase-I]()
-- [Clean Code]()
-- [Setting Up Environments]()
-- [Version Control]()
-- [Terminal/CMD Essentials]()
+
 
 
 ## Directories:
@@ -16,8 +12,36 @@
       |___Languages 
       |       |
       |       |__Python
-      |        |_Go
+      |       |_Go
       |       |_Javascript
+      |
+      |___Frontend
+      |      |__HTMl
+      |      |__CSS
+      |      |__SASS/LESS
+      |      |__React.js
+      |      |__Vue.js
+      |      |__Bootstrap
+      |
+      |__Backend
+      |     |__PHP
+      |     |__Node.js
+      |     |__Django
+      |     |__RubyOnRails
+      |
+      |__Tooling
+      |    |__Package-Managers
+      |    |__Build-Tools
+      |    |__Linting
+      
+      
+      
+      
+## [Phase-I]()
+- [Clean Code]()
+- [Setting Up Environments]()
+- [Version Control]()
+- [Terminal/CMD Essentials]()
       
 
 ## [Phase-II]()
@@ -30,8 +54,6 @@
   - [HTML5]()
   - [CSS3]()
   - [SASS/LESS]()
-  - [JSON]()
-  - [JS Elements for Frontend]()
   - [React]()
   - [Vue]()
 
