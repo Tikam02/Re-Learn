@@ -10,6 +10,16 @@
 - [Version Control]()
 - [Terminal/CMD Essentials]()
 
+
+## Directories:
+      |
+      |___Languages 
+      |       |
+      |       |__Python
+      |        |_Go
+      |       |_Javascript
+      
+
 ## [Phase-II]()
 - [Python](https://github.com/Tikam02/Re-Learn/tree/master/Phase-II/Python) 
 - [GO](https://github.com/Tikam02/Re-Learn/tree/master/Phase-II/Go)
@@ -37,7 +47,7 @@
 ## [Phase-V]()
 - [Backend]()
   - [Django]()
-  - [Ruby On Rails()
+  - [Ruby On Rails]()
 
 
 
