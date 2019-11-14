@@ -34,6 +34,11 @@
       |    |__Build-Tools
       |    |__Linting
       |
+      |__Setup
+            |__Setting Up Enviroment
+            |__Terminal Setup
+            |__Version Control
+            |__Clean Code Ethics
       
       
       
