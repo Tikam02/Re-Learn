@@ -22,6 +22,9 @@
 
 ## Function - _.each / forEach
 
+- iterates over a list of elements,passing the values to a function
+- Each invocation of iteration,the function is called with three arguments:(element,index,list)
+
 
 ```javascript
 const _ = {};
@@ -32,3 +35,4 @@ _.each = function(list,callback){
         // call the callback with a list item
 
 }
+```
