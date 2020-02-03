@@ -19,3 +19,16 @@
 - How do you access an object that is inside another object?
 
 - How do you create an object that is nested inside another object?
+
+## Function - _.each / forEach
+
+
+```javascript
+const _ = {};
+
+_.each = function(list,callback){
+        //
+        //loop through list
+        // call the callback with a list item
+
+}
