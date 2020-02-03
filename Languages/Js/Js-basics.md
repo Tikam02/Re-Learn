@@ -20,7 +20,7 @@
 
 - How do you create an object that is nested inside another object?
 
-## Function - _.each / forEach
+## Function  _.each / forEach
 
 - iterates over a list of elements,passing the values to a function
 - Each invocation of iteration,the function is called with three arguments:(element,index,list)
@@ -35,4 +35,13 @@ _.each = function(list,callback){
         // call the callback with a list item
 
 }
+
+## Function  _.map/.map()
+
+```javascript
+_.map([1,2,3]), function(v,i,list){console.log(v)})
 ```
+
+- Produces a new array of values by mapping each value in list through a transformation function(iterator).
+- Each invocation of iteration is called with three arguments:(element,index,list).
+- If its Javascript object,iterations arguments will be(value.key,list).
